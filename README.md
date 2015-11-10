@@ -3,6 +3,8 @@ Sample app to list the transactions and allow user to change the state of transa
 
 The app takes in the data from the JsonBlobApi. The link to the data is: The link to data is: https://jsonblob.com/563e061ce4b01190df3ef64a
 
+You can clone the repo: git clone --recursive https://github.com/pgiitu/westerosBudget.git
+
 Features:
 
 1. Allows user to see a list of transactions fetched from the API
@@ -14,7 +16,7 @@ Features:
 
 Third Party Library Used:
 
-1. Volley: for the netwrok requests
+1. Volley(added as a submodule): for the netwrok requests
 2. gson: for parsing the JsonResponse to the Java Object and vice versa.
 
 Assumptions
