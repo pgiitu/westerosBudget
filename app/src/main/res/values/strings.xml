@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Westeros Budget</string>
+    <string name="action_settings">Settings</string>
+    <string name="verified">Verified</string>
+    <string name="unverified">Unverified</string>
+    <string name="fraud">Fraud</string>
+    <string name="change_status_title">Set Status To:</string>
+    <string name="error_transaction_status">There was an error updating the transaction. Please try again later</string>
+    <string name="transaction_amount">Rs %s</string>
+    <string name="transaction_id">Txn Id: %s</string>
+    <string name="empty_transactions">Sorry there are no transactions yet. We would keep trying.</string>
+    <string name="empty_taxi_transactions">Sorry there are no Taxi transactions yet.</string>
+    <string name="empty_recharge_transactions">Sorry there are no Recharge transactions yet.</string>
+    <string name="successful_transaction_update">Transaction Updated</string>
+
+
+</resources>
