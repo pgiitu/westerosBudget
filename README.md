@@ -10,6 +10,7 @@ Features:
 3. There are only two categories of transactions (Recharge, Taxi). App allows user to filter the transactions
 4. Allows user to do swipe to refresh the data.
 5. App also polls the server every 1 minute to look for new data only when it is in the foreground.
+6. I have added some toast messages so that it is easy to understand what is going on.
 
 Third Party Library Used:
 
