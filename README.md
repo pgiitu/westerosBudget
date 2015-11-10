@@ -31,4 +31,5 @@ TODO
 1. Right now if there is no network or we don't get any data from the server the app will just say no transactions present. We can easily handle the type of error and show 
 the customized error to the user.
 2. When the state of a transaction is being updated we can show a loading spinner till we hear back from the server.
+3. We can also look for network change updates and refresh the data once the user is connected to the network.
 
