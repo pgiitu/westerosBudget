@@ -9,7 +9,7 @@ Features:
 2. Allows the user to change the state of any transaction among these three states(Unverified, Verfied, Fraud)
 3. There are only two categories of transactions (Recharge, Taxi). App allows user to filter the transactions
 4. Allows user to do swipe to refresh the data.
-5. App also polls the server every 1 minute to look for new data.
+5. App also polls the server every 1 minute to look for new data only when it is in the foreground.
 
 Third Party Library Used:
 
